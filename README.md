@@ -4,6 +4,6 @@ I'm a Fullstack Web Developer. I adore learning more about the web, security and
 
 👨🏼‍💻 I’m currently working on:
 
-- libs: [Laravel DeepAgents](https://github.com/twdnhfr/laravel-deepagents)
+- libs: [Laravel DeepAgents](https://github.com/twdnhfr/laravel-deepagents), [Laravel BES Rag](https://github.com/twdnhfr/laravel-bes-rag)
 
 - web apps: [docsguide.de](https://docsguide.de/), [reha-klinik-finden.de](https://reha-klinik-finden.de), [carconnectcode.de](https://carconnectcode.de/) and [pizzadings.de](https://pizzadings.de)
